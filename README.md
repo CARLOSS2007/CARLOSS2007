@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😎
 
-Meu nime e Carlos Eduardo 
+Meu nome e Carlos Eduardo 
 
 -  Estou recebendo na alura
 -  Estou me desenvolvendo na linguagem javaScript
@@ -9,4 +9,7 @@ Meu nime e Carlos Eduardo
 ### Você entrar em contato comigo 📫
 
 00001086581465sp@al.educacao.sp.gov.br
+
 @carlos_santo2_
+
+![](https://github.com/user-attachments/assets/f5562e11-056c-4f61-8be1-31810a6e65e5)
