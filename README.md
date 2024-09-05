@@ -2,7 +2,7 @@
 
 Meu nome e Carlos Eduardo 
 
--  Estou recebendo na alura
+-  Estou recebendo na [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na linguagem javaScript
 -  utilizando esse espaço para minha organização e compartilhamento dos eus projetos desenvolvidos
 
